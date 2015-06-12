@@ -1,6 +1,5 @@
 # StarsRepository
-# StarsRepository
-##<a name="table"/>列出我所有star的Repository，以及一些没有star的，大部分来自代码家的干货分享
+##<a name="table"/>列出我所有star的Repository
 | 序号 | 名字|作者| 简介| 
 | ---- | --- | --- |--- |
 | 1   | [AndroidViewHover](https://github.com/daimajia/AndroidViewHover)|[daimajia](https://github.com/daimajia)|以一种优雅的方式显示你的菜单或消息|
@@ -64,5 +63,45 @@
 | 59   | [bottomsheet](https://github.com/Flipboard/bottomsheet)|[Flipboard](https://github.com/Flipboard)|Android component which presents a dismissible view from the bottom of the screen|
 | 60   | [Spanny](https://github.com/binaryfork/Spanny)|[binaryfork](https://github.com/binaryfork)|扩展SpannableStringBuilder并添加方法的辅助类，可以轻松地标记与多个跨距的文本|
 | 61   | [ProductTour](https://github.com/matrixxun/ProductTour)|[matrixxun](https://github.com/matrixxun)|app引导界面|
-| 62   | []()|[]()||
-| 63   | []()|[]()||
+| 62   | [superCleanMaster](https://github.com/joyoyao/superCleanMaster)|[joyoyao](https://github.com/joyoyao)|一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。|
+| 63   | [java-design-patterns](https://github.com/iluwatar/java-design-patterns)|[iluwatar](https://github.com/iluwatar)|用 Java 实现了几乎所有的设计模式，如果想要写出设计优雅的 App，烈推荐学习。|
+| 64   | [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)|[googlesamples](https://github.com/googlesamples)|Google 放出了一个 Material Design 下的音乐播放器，Google 的项目值得深入学习！|
+| 65   | [RedEnvelopeAssistant](https://github.com/waylife/RedEnvelopeAssistant)|[waylife](https://github.com/waylife)|RedEnvelopeAssistant 微信/支付宝红包助手|
+| 66   | [Taurus](https://github.com/Yalantis/Taurus)|[Yalantis](https://github.com/Yalantis)|又是一个美美的下拉刷新。|
+| 67   | [AwesomeValidation](https://github.com/thyrlian/AwesomeValidation)|[thyrlian](https://github.com/thyrlian)|校验数据是否合法的一个库，很实用。|
+| 68   | [hawk](https://github.com/orhanobut/hawk)|[orhanobut](https://github.com/orhanobut)|在 App 开发的时候经常要面临存储数据安全的问题，这个库就能帮上忙。|
+| 69   | [gogs](https://github.com/gogits/gogs)|[gogits](https://github.com/gogits)|快速搭建自己的 Git 服务。|
+| 70   | [SimpleTagImageView](https://github.com/wujingchao/SimpleTagImageView)|[wujingchao](https://github.com/wujingchao)|圆角图片，并且可以加标记在图片上|
+| 71   | [ArcAnimator](https://github.com/asyl/ArcAnimator)|[asyl](https://github.com/asyl)|Material Design下经常需要一些大胆的动画，看看这个弧形变换效果，尝试着用到你的项目中吧。2.3+|
+| 72   | [android-testing](https://github.com/googlesamples/android-testing)|[googlesamples](https://github.com/googlesamples)|大家很少写过 Android 测试模块吧，看看 Google 的这个项目~ 教你如何书写Android 测试组件。|
+| 73   | [java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation)|[phishman3579](https://github.com/phishman3579)|Java 下一些常见算法的实现，一个好的算法经常能够提高App速度哟。|
+| 74   | [StatedFragment](https://github.com/nuuneoi/StatedFragment)|[nuuneoi](https://github.com/nuuneoi)|如果你觉得 Fragment 的状态记录和恢复是个很麻烦的事情，这个项目能帮到你。|
+| 75   | [Dragger](https://github.com/ppamorim/Dragger)|[ppamorim](https://github.com/ppamorim)|滑动来结束Activity的一个库，很实用。|
+| 76   | [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)|[ogaclejapan](https://github.com/ogaclejapan)|增强版的 ViewPager，能够给用户更好的反馈。|
+| 77   | [GsonFormat](https://github.com/zzz40500/GsonFormat)|[zzz40500](https://github.com/zzz40500)|一个gson的解析插件|
+| 78   | [richeditor-android](https://github.com/wasabeef/richeditor-android)|[wasabeef](https://github.com/wasabeef)|一个 漂亮的所见即所得的富文本编辑控件。|
+| 79   | [muzei](https://github.com/romannurik/muzei)|[romannurik](https://github.com/romannurik)|Android上一款大名鼎鼎的自动换壁纸应用，但做的实在是漂亮。而且开源。|
+| 80   | [自动化截图－应用分发时的自动截图方案](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/others/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%88%AA%E5%9B%BE%EF%BC%8D%E5%BA%94%E7%94%A8%E5%88%86%E5%8F%91%E6%97%B6%E7%9A%84%E8%87%AA%E5%8A%A8%E6%88%AA%E5%9B%BE%E6%96%B9%E6%A1%88)|[bboyfeiyu](https://github.com/bboyfeiyu)|自动化截图－应用分发时的自动截图方案|
+| 81   | [Point-of-Android](https://github.com/FX-Max/Point-of-Android)|[FX-Max](https://github.com/FX-Max)|Android知识点分析|
+| 82   | [labelview](https://github.com/linger1216/labelview)|[linger1216](https://github.com/linger1216)|给view加上标记，比之前图片加标记的还棒|
+| 83   | [SHSegmentControl](https://github.com/7heaven/SHSegmentControl)|[7heaven](https://github.com/7heaven)|类似viewpager头部选择的控件|
+| 84   | [MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector)|[lovetuzitong](https://github.com/lovetuzitong)|图片选择控件，看起来不错|
+| 85   | [android-player](https://github.com/geftimov/android-player)|[geftimov](https://github.com/geftimov)|Android view动画，很不错的样子|
+| 86   | [Remindly](https://github.com/blanyal/Remindly)|[blanyal](https://github.com/blanyal)|一个开源的事件提醒工具|
+| 87   | [PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout)|[Jawnnypoo](https://github.com/Jawnnypoo)|使用JBox2D模拟物理现象各种动态的弹性效果|
+| 88   | [AsyncManager](https://github.com/boxme/AsyncManager)|[boxme](https://github.com/boxme)|一个异步处理库，涵盖了保持后台任务的创建和终止，回调在UI线程上处理。|
+| 89   | [CameraModule](https://github.com/Yalantis/CameraModule)|[Yalantis](https://github.com/Yalantis)|相机控制的一个库|
+| 90   | [PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition)|[takahirom](https://github.com/takahirom)|5.0的动画库兼容到之前的版本|
+| 91   | [android-selector-chapek](https://github.com/inmite/android-selector-chapek)|[inmite](https://github.com/inmite)|快速生成selector的插件|
+| 92   | [AndroidGradleTemplate](https://github.com/jaredsburrows/AndroidGradleTemplate)|[jaredsburrows](https://github.com/jaredsburrows)|Android Gradle模板|
+| 93   | [GigaGet](https://github.com/PaperAirplane-Dev-Team/GigaGet)|[PaperAirplane-Dev-Team](https://github.com/PaperAirplane-Dev-Team)|支持多线程、断点续传的轻量级下载器|
+| 94   | []()|[]()||
+| 95   | []()|[]()||
+| 96   | []()|[]()||
+| 97   | []()|[]()||
+| 98   | []()|[]()||
+| 99   | []()|[]()||
+| 100   | []()|[]()||
+| 101   | []()|[]()||
+| 102   | []()|[]()||
+| 103   | []()|[]()||
