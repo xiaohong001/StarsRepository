@@ -95,8 +95,8 @@
 | 91   | [android-selector-chapek](https://github.com/inmite/android-selector-chapek)|[inmite](https://github.com/inmite)|快速生成selector的插件|
 | 92   | [AndroidGradleTemplate](https://github.com/jaredsburrows/AndroidGradleTemplate)|[jaredsburrows](https://github.com/jaredsburrows)|Android Gradle模板|
 | 93   | [GigaGet](https://github.com/PaperAirplane-Dev-Team/GigaGet)|[PaperAirplane-Dev-Team](https://github.com/PaperAirplane-Dev-Team)|支持多线程、断点续传的轻量级下载器|
-| 94   | []()|[]()||
-| 95   | []()|[]()||
+| 94   | [progresshint](https://github.com/techery/progresshint)|[techery](https://github.com/techery)|“井字”ProgressBar/SeekBar，水平和垂直的都行|
+| 95   | [Trestle](https://github.com/lawloretienne/Trestle)|[lawloretienne](https://github.com/lawloretienne)|更多的TextView spans|
 | 96   | []()|[]()||
 | 97   | []()|[]()||
 | 98   | []()|[]()||
